@@ -1,2 +1,2 @@
 # bulbsocket_world
-Just groun&amp;bulbsockrt's repository
+Just groun&amp;bulbsocket's repository
